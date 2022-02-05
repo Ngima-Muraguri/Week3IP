@@ -1,0 +1,65 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(139, 132, 131);
+}
+.heading{
+    margin: auto;
+}
+.one{
+    margin: auto;
+    padding: 40px;
+    border: solid cornsilk;
+    width: 300px;
+    height: 100px;
+    background-color: white;
+    
+}
+.two{
+    margin: auto;
+    padding: 40px;
+    border: solid cyan;
+    width: 300px;
+    height: 100px;
+    background-color: white;
+}
+.three{
+    margin: auto;
+    padding: 40px;
+    border: solid cornsilk;
+    width: 300px;
+    height: 100px;
+    background-color: white;
+    
+}
+.four{
+    margin: auto;
+    padding: 40px;
+    border: solid cyan;
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    background-color: white;
+}
+.five{
+    margin: auto;
+    padding: 40px;
+    border: solid cornsilk;
+    width: 300px;
+    height: 100px;
+    background-color: white;
+    
+}
+.six{
+    margin: auto;
+    padding: 40px;
+    border: solid cyan;
+    width: 300px;
+    height: 100px;
+    background-color: white;
+}
+p{
+    background-color: white;
+}
+ul li{
+    background-color: white;
+}
