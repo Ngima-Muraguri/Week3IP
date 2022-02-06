@@ -75,6 +75,6 @@ p{
     font-weight: bold;
     
 }
-button:hover{
+.button:hover{
     background-color: blue;
 }
