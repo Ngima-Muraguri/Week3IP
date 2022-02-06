@@ -13,54 +13,56 @@
     margin: 80px;
     padding: 50px;
     margin-left: 20%;
-    box-shadow: tomato;
-    
-    
+
 }
 .two{
-    margin: 50px;
-    padding: 40px;
     border: solid cyan;
-    width: 300px;
-    height: 100px;
     background-color: white;
+    width: 300px;
+    margin: 80px;
+    padding: 50px;
+    margin-left: 20%;
+
 }
 .three{
-    margin:auto;
-    padding: 40px;;
-    border: solid cornsilk;
-    width: 300px;
-    height: 100px;
+    border: solid palevioletred;
     background-color: white;
-    
+    width: 300px;
+    margin: 80px;
+    padding: 50px;
+    margin-left: 20%;
+
     
 }
 .four{
+    border: solid cyan;
+    background-color: white;
+    width: 300px;
+    margin: 80px;
+    padding: 50px;
+    margin-left: 20%;
 
     
-    margin: auto;
-    padding: 40px;
-    border: solid cyan;
-    width: 300px;
-    height:100px;
-    background-color: white;
+   
 }
 .five{
-    margin: auto;
-    padding: 40px;
-    border: solid cornsilk;
-    width: 300px;
-    height: 100px;
+    border: solid palevioletred;
     background-color: white;
+    width: 300px;
+    margin: 80px;
+    padding: 50px;
+    margin-left: 20%;
+
     
 }
 .six{
-    margin: auto;
-    padding: 40px;
     border: solid cyan;
-    width: 300px;
-    height: 100px;
     background-color: white;
+    width: 300px;
+    margin: 80px;
+    padding: 50px;
+    margin-left: 20%;
+
 }
 p{
     background-color: white;
