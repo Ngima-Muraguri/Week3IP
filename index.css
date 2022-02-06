@@ -67,8 +67,14 @@
 p{
     background-color: white;
 }
-ul li{
-    background-color: white;
-    list-style-type: none;
-
+.button{
+    width: 200px;
+    height: 50px;
+    margin-left: 20%;
+    background-color:turquoise;
+    font-weight: bold;
+    
+}
+button:hover{
+    background-color: blue;
 }
