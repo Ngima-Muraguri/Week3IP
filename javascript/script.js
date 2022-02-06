@@ -24,13 +24,13 @@ function score() {
     document.write("your score is" + ans +"%")
 
     if (ans>=80){
-        document.write("excellent")
+        document.write("WELL DONE!!")
     }
     else if (ans>=50 && ans<80){
-        document.write(" You fairly passed")
+        document.write("averagely well done")
     }
     else if (ans<50){
-        document.write("poorly performed")
+        document.write("you need to work some more!")
     }
     else{
         console.log("Fail");
