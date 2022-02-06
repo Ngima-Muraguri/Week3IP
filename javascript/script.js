@@ -1,7 +1,7 @@
-
- function click() {
+function score() {
     var sum=0;
     if (document.getElementById("java").checked){
+        console.log("Hello");
         sum++;
     } 
     if (document.getElementById("correct").checked){
@@ -11,6 +11,7 @@
         sum++;
     } 
     if (document.getElementById("formed").checked){
+        console.log(23);
         sum++;
     } 
     if (document.getElementById("write").checked){
@@ -19,19 +20,22 @@
     if (document.getElementById("push").checked){
         sum++;
     } 
-    var ans=sum*20;
+    var ans=sum*16.6666666666666667;
     document.write("your score is" + ans +"%")
 
     if (ans>=80){
         document.write("excellent")
     }
-    else if (ans<80 && ans<=50){
+    else if (ans>=50 && ans<80){
         document.write(" You fairly passed")
     }
     else if (ans<50){
         document.write("poorly performed")
     }
+    else{
+        console.log("Fail");
+    }
 }
-function result2(){
-    alert(" make sure you fill all the questions")
+function result(){
+    alert("Hope you have double checked answers");
 }
