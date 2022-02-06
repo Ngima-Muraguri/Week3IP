@@ -37,5 +37,5 @@ function score() {
     }
 }
 function result(){
-    alert("Hope you have double checked answers");
+    alert("Hope you have double checked the answers");
 }
