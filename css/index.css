@@ -1,10 +1,11 @@
 *{
     font-family: 'Times New Roman', Times, serif;
-    background-color: rgb(139, 132, 131);
+    background-color: rgb(109, 106, 103);
 }
 .heading{
     margin: 20px;
     text-align: center;
+    
 }
 .one{
     border: solid palevioletred;
@@ -41,9 +42,7 @@
     margin: 80px;
     padding: 50px;
     margin-left: 20%;
-
-    
-   
+ 
 }
 .five{
     border: solid palevioletred;
